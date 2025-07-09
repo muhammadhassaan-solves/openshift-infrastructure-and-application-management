@@ -1,35 +1,35 @@
-# OpenShift for DevOps – Hands-On Labs  
+<h1>Practical OpenShift for DevOps</h1>  
 
-## Video Demonstrations  
-**Watch me in action as I perform real-world OpenShift administration and deployment tasks.**  
-**[Watch Here](https://drive.google.com/drive/folders/1kv4-2pTslPqG4E96ahNqamIifcpMrj2k?usp=sharing)**  
+<h2>Description</h2>
+This project is part of my personal portfolio where I practiced real-world OpenShift tasks used in DevOps and system administration.  
+I completed 18 labs covering everything from app deployment to automation, storage, monitoring, and CI/CD inside an OpenShift cluster.
 
----
 
-## Overview  
-This repository showcases practical OpenShift expertise through 18 hands-on exercises, covering critical DevOps, Kubernetes, and cloud-native deployment skills. These labs focus on real-world OpenShift use cases, which help master orchestration, security, automation, and high availability.  
+<h2>What I Practiced</h2>
 
----
+- Setting up and managing OpenShift clusters  
+- Deploying and scaling containerized apps  
+- Creating persistent volumes and storage classes  
+- Making apps reliable using high availability  
+- Performing updates and rollbacks  
+- Troubleshooting OpenShift issues  
+- Checking logs and monitoring performance  
+- Exposing services using routes and ingress  
+- Doing rolling, blue-green, and canary deployments  
+- Working with StatefulSets for stateful apps  
+- Managing CPU/memory resources  
+- Setting up RBAC and applying security policies  
+- Automating tasks using Jobs and CronJobs  
+- Exploring networking inside OpenShift  
+- Running OpenShift on cloud setups  
+- Testing cluster high availability  
+- Tuning performance for better efficiency  
+- Building CI/CD pipelines inside OpenShift
 
-## Topics Covered  
-**Managing OpenShift Container Platform** – Set up and configure OpenShift  
-**Deploying Applications** – Deploy and scale containerized apps  
-**Managing Storage** – Persistent storage and dynamic provisioning  
-**Configuring Applications for Reliability** – Best practices for high availability  
-**Managing Application Updates and Rollbacks** – Ensure seamless updates  
-**Troubleshooting in OpenShift** – Debugging and issue resolution  
-**Effective Monitoring and Logging** – Observe cluster and app performance  
-**Networking & Service Exposure Mastery** – Load balancing and ingress setup  
-**Advanced Deployment Techniques** – Rolling updates, blue-green, and canary deployments  
-**Mastering StatefulSets** – Stateful workloads in OpenShift  
-**Cluster Resource Optimization** – Efficient resource management  
-**Ensuring Security & Compliance** – Policies, RBAC, and security best practices  
-**Task Automation Mastery** – Jobs and CronJobs in OpenShift  
-**Networking Deep Dive** – Advanced OpenShift networking concepts  
-**Cloud Integration with OpenShift** – Hybrid and multi-cloud deployment  
-**Ensuring High Availability** – Cluster resilience strategies  
-**Performance Tuning Expertise** – Optimize OpenShift for production  
-**CI/CD Workflow Mastery** – Automating deployment pipelines in OpenShift  
 
----
+<h2>Video Demonstrations</h2>
+<p>I recorded each task step by step as I performed it.</p>
+<p><a href="https://drive.google.com/drive/folders/1kv4-2pTslPqG4E96ahNqamIifcpMrj2k?usp=sharing" target="_blank"><strong>▶ Watch Here</strong></a></p>
+
+
 
